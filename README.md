@@ -1,12 +1,12 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## q server
 
-### Author: Student/Group Name
+### Author: Jacob and Jared
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [repo](https://github.com/1anderson2jacob/10-project-q)
 * [travis](http://xyz.com)
 * [back-end](http://xyz.com)
 * [front-end](http://xyz.com)
