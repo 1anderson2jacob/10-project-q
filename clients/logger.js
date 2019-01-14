@@ -1,6 +1,6 @@
 'use strict';
 
-const Q = require('./lib/subscriber.js');
+const Q = require('../lib/subscriber.js');
 
 const db = new Q('database');
 
@@ -11,5 +11,3 @@ db.subscribe('delete', (payload) => {
 db.subscribe('create', (payload) => {
   console.log('create happened', payload);
 });
-
-// console.log(db.subscriptions());
