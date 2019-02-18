@@ -11,3 +11,6 @@ db.monitorEvent('delete');
 const network = new Q('network');
 network.monitorEvent('attack');
 network.monitorEvent('no-service');
+
+const chatQueue = new Q('troll');
+chatQueue.monitorEvent('message');
